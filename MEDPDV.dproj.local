@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/16 09:57:51.000.607,=C:\Users\MrDot\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 10:01:43.000.636,C:\Users\MrDot\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.principal.dfm</Transaction>
+    <Transaction>2022/12/16 10:01:43.000.636,C:\Users\MrDot\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.principal.pas</Transaction>
+    <Transaction>2022/12/16 10:02:41.000.504,C:\Users\MrDot\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\MED-PDV\MEDPDV.dproj</Transaction>
+    <Transaction>2022/12/18 12:42:35.000.559,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 12:43:30.000.590,C:\Projetos\MED-PDV\src\view\medpdv.view.page.login.pas=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 12:43:30.000.590,C:\Projetos\MED-PDV\src\view\medpdv.view.page.login.dfm=C:\Projetos\MED-PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/12/19 12:11:57.000.435,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 12:14:29.000.048,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\componente\medpdv.view.componente.Transparencia.pas</Transaction>
+    <Transaction>2022/12/19 12:14:29.000.048,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\componente\medpdv.view.componente.Transparencia.dfm</Transaction>
+    <Transaction>2022/12/19 12:37:36.000.659,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 17:51:46.000.234,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\model\medpdv.model.dados.pas</Transaction>
+    <Transaction>2022/12/19 17:51:46.000.234,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\model\medpdv.model.dados.dfm</Transaction>
+    <Transaction>2022/12/21 18:25:33.000.271,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/21 18:31:31.000.422,C:\Projetos\MED-PDV\src\view\medpdv.view.page.pagamento.dfm=C:\Projetos\MED-PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/12/21 18:31:31.000.422,C:\Projetos\MED-PDV\src\view\medpdv.view.page.pagamento.pas=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/22 22:52:38.000.421,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/22 22:57:04.000.834,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.page.pix.pas</Transaction>
+    <Transaction>2022/12/22 22:57:04.000.834,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.page.pix.dfm</Transaction>
+    <Transaction>2022/12/25 03:29:27.000.358,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/25 03:30:10.000.950,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.page.dinheiro.pas</Transaction>
+    <Transaction>2022/12/25 03:30:10.000.950,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.page.dinheiro.dfm</Transaction>
+    <Transaction>2022/12/26 16:18:23.000.609,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/26 16:20:31.000.092,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.page.cartao.pas</Transaction>
+    <Transaction>2022/12/26 16:20:31.000.092,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.page.cartao.dfm</Transaction>
+    <Transaction>2022/12/31 23:16:38.000.067,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2022/12/31 23:18:53.000.248,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.page.identificarcliente.pas</Transaction>
+    <Transaction>2022/12/31 23:18:53.000.248,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.page.identificarcliente.dfm</Transaction>
+    <Transaction>2023/01/01 13:16:57.000.580,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2023/01/01 13:23:41.000.816,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.page.importarcliente.dfm</Transaction>
+    <Transaction>2023/01/01 13:23:41.000.816,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.page.importarcliente.pas</Transaction>
+    <Transaction>2023/01/04 18:29:55.000.692,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2023/01/04 18:32:35.000.761,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\view\medpdv.view.abrircaixa.pas</Transaction>
+    <Transaction>2023/01/04 18:32:35.000.761,C:\Projetos\MED-PDV\Unit1.dfm=C:\Projetos\MED-PDV\src\view\medpdv.view.abrircaixa.dfm</Transaction>
+    <Transaction>2023/06/29 20:28:41.000.197,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2023/06/29 20:53:26.000.028,C:\Projetos\MED-PDV\Unit1.pas=C:\Projetos\MED-PDV\src\model\medpdv.model.caixa.pas</Transaction>
+    <Transaction>2023/07/05 15:19:11.123,=C:\Projetos\MED-PDV\src\view\medpdv.view.page.fechamentoCaixa.pas</Transaction>
+    <Transaction>2023/07/05 16:10:52.964,=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 16:12:27.157,C:\Projetos\MED-PDV\src\view\componente\medpdv.view.componente.ListaPageFechamento.dfm=C:\Projetos\MED-PDV\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 16:12:27.157,C:\Projetos\MED-PDV\src\view\componente\medpdv.view.componente.ListaPageFechamento.pas=C:\Projetos\MED-PDV\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

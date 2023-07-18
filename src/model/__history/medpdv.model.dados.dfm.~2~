@@ -1,0 +1,11 @@
+object dmDados: TdmDados
+  OldCreateOrder = False
+  Height = 372
+  Width = 604
+  object cdsItens: TClientDataSet
+    Aggregates = <>
+    Params = <>
+    Left = 56
+    Top = 32
+  end
+end

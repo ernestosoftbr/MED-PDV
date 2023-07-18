@@ -1,0 +1,45 @@
+unit medpdv.view.page.login;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Buttons,
+  Vcl.Imaging.pngimage;
+
+type
+  TPageLogin = class(TForm)
+    pnlContainer: TPanel;
+    pnlLogin: TPanel;
+    pnlImage: TPanel;
+    pnlLogar: TPanel;
+    Panel2: TPanel;
+    Panel3: TPanel;
+    Label2: TLabel;
+    Panel4: TPanel;
+    Shape2: TShape;
+    Edit1: TEdit;
+    Panel1: TPanel;
+    Label1: TLabel;
+    Panel5: TPanel;
+    Shape1: TShape;
+    Edit2: TEdit;
+    Panel6: TPanel;
+    Panel7: TPanel;
+    Shape3: TShape;
+    btnLogar: TSpeedButton;
+    Image1: TImage;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  PageLogin: TPageLogin;
+
+implementation
+
+{$R *.dfm}
+
+end.

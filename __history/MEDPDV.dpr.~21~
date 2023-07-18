@@ -1,0 +1,28 @@
+program MEDPDV;
+
+uses
+  Vcl.Forms,
+  medpdv.view.principal in 'src\view\medpdv.view.principal.pas' {pageprincipal},
+  medpdv.view.page.login in 'src\view\medpdv.view.page.login.pas' {PageLogin},
+  medpdv.view.componente.Transparencia in 'src\view\componente\medpdv.view.componente.Transparencia.pas' {FundoTransparente},
+  medpdv.model.dados in 'src\model\medpdv.model.dados.pas' {dmDados: TDataModule},
+  medpdv.view.page.pagamento in 'src\view\medpdv.view.page.pagamento.pas' {PagePagamentos},
+  medpdv.view.page.pix in 'src\view\medpdv.view.page.pix.pas' {FramePix: TFrame},
+  medpdv.view.page.dinheiro in 'src\view\medpdv.view.page.dinheiro.pas' {FrameDinheiro: TFrame},
+  medpdv.view.page.cartao in 'src\view\medpdv.view.page.cartao.pas' {FrameCartao: TFrame},
+  medpdv.view.page.identificarcliente in 'src\view\medpdv.view.page.identificarcliente.pas' {PageIdentificarCliente},
+  medpdv.view.page.importarcliente in 'src\view\medpdv.view.page.importarcliente.pas' {PageImportarCliente},
+  medpdv.view.abrircaixa in 'src\view\medpdv.view.abrircaixa.pas' {PageAbirCaixa};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  ReportMemoryLeaksOnShutdown := True;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tpageprincipal, pageprincipal);
+  Application.CreateForm(TFundoTransparente, FundoTransparente);
+  Application.CreateForm(TdmDados, dmDados);
+  Application.CreateForm(TPageAbirCaixa, PageAbirCaixa);
+  Application.Run;
+end.

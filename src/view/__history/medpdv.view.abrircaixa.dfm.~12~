@@ -1,0 +1,298 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  AlphaBlend = True
+  AlphaBlendValue = 240
+  BorderStyle = bsNone
+  Caption = 'Form1'
+  ClientHeight = 710
+  ClientWidth = 1190
+  Color = clBackground
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlContainer: TPanel
+    Left = 88
+    Top = 80
+    Width = 593
+    Height = 409
+    Margins.Left = 0
+    Margins.Top = 0
+    Margins.Right = 0
+    Margins.Bottom = 0
+    BevelOuter = bvNone
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 6707288
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentBackground = False
+    ParentFont = False
+    TabOrder = 0
+    object Panel1: TPanel
+      AlignWithMargins = True
+      Left = 0
+      Top = 0
+      Width = 593
+      Height = 55
+      Margins.Left = 0
+      Margins.Top = 0
+      Margins.Right = 0
+      Align = alTop
+      BevelOuter = bvNone
+      Caption = 'Abertura de Caixa'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = 7119398
+      Font.Height = -53
+      Font.Name = 'Segoe UI'
+      Font.Style = []
+      ParentBackground = False
+      ParentFont = False
+      TabOrder = 0
+      object Shape2: TShape
+        Left = 0
+        Top = 54
+        Width = 593
+        Height = 1
+        Align = alBottom
+        ExplicitTop = -24
+        ExplicitWidth = 450
+      end
+    end
+    object Panel3: TPanel
+      AlignWithMargins = True
+      Left = 0
+      Top = 58
+      Width = 593
+      Height = 24
+      Margins.Left = 0
+      Margins.Top = 0
+      Margins.Right = 0
+      Align = alTop
+      BevelOuter = bvNone
+      Caption = 'Informe os Valores Disponiveis para Iniciar a Abertura'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = 6708056
+      Font.Height = -11
+      Font.Name = 'Segoe UI'
+      Font.Style = []
+      ParentBackground = False
+      ParentFont = False
+      TabOrder = 1
+      object Shape3: TShape
+        Left = 0
+        Top = 23
+        Width = 593
+        Height = 1
+        Align = alBottom
+        ExplicitTop = -24
+        ExplicitWidth = 450
+      end
+    end
+    object Panel4: TPanel
+      AlignWithMargins = True
+      Left = 0
+      Top = 85
+      Width = 593
+      Height = 324
+      Margins.Left = 0
+      Margins.Top = 0
+      Margins.Right = 0
+      Margins.Bottom = 0
+      Align = alClient
+      BevelOuter = bvNone
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = 6708056
+      Font.Height = -11
+      Font.Name = 'Segoe UI'
+      Font.Style = []
+      Padding.Left = 150
+      Padding.Top = 100
+      Padding.Right = 150
+      Padding.Bottom = 100
+      ParentBackground = False
+      ParentFont = False
+      TabOrder = 2
+      ExplicitTop = 58
+      ExplicitHeight = 24
+      object Panel5: TPanel
+        AlignWithMargins = True
+        Left = 150
+        Top = 100
+        Width = 293
+        Height = 124
+        Margins.Left = 0
+        Margins.Top = 0
+        Margins.Right = 0
+        Margins.Bottom = 0
+        Align = alClient
+        BevelOuter = bvNone
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = 6708056
+        Font.Height = -11
+        Font.Name = 'Segoe UI'
+        Font.Style = []
+        ParentBackground = False
+        ParentFont = False
+        TabOrder = 0
+        ExplicitLeft = 0
+        ExplicitTop = 58
+        ExplicitWidth = 593
+        ExplicitHeight = 24
+        object Panel6: TPanel
+          Left = 0
+          Top = 0
+          Width = 293
+          Height = 66
+          Margins.Left = 0
+          Margins.Top = 0
+          Margins.Right = 0
+          Margins.Bottom = 0
+          Align = alTop
+          BevelOuter = bvNone
+          Font.Charset = DEFAULT_CHARSET
+          Font.Color = 6708056
+          Font.Height = -11
+          Font.Name = 'Segoe UI'
+          Font.Style = []
+          ParentBackground = False
+          ParentFont = False
+          TabOrder = 0
+          object Panel8: TPanel
+            Left = 0
+            Top = 0
+            Width = 293
+            Height = 20
+            Margins.Left = 0
+            Margins.Top = 0
+            Margins.Right = 0
+            Margins.Bottom = 0
+            Align = alTop
+            BevelOuter = bvNone
+            Caption = 'Dispon'#237'vel no Caixa'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 6708056
+            Font.Height = -16
+            Font.Name = 'Segoe UI'
+            Font.Style = []
+            ParentBackground = False
+            ParentFont = False
+            TabOrder = 0
+          end
+          object Panel9: TPanel
+            Left = 0
+            Top = 20
+            Width = 293
+            Height = 46
+            Margins.Left = 0
+            Margins.Top = 0
+            Margins.Right = 0
+            Margins.Bottom = 0
+            Align = alClient
+            BevelOuter = bvNone
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 6708056
+            Font.Height = -16
+            Font.Name = 'Segoe UI'
+            Font.Style = []
+            ParentBackground = False
+            ParentFont = False
+            TabOrder = 1
+            ExplicitHeight = 40
+            object Shape1: TShape
+              Left = 0
+              Top = 0
+              Width = 293
+              Height = 46
+              Align = alClient
+              Pen.Color = 7119398
+              Pen.Style = psClear
+              Shape = stRoundRect
+              ExplicitTop = -24
+              ExplicitWidth = 450
+              ExplicitHeight = 1
+            end
+            object edtValorSuprimento: TEdit
+              AlignWithMargins = True
+              Left = 3
+              Top = 0
+              Width = 287
+              Height = 38
+              Margins.Top = 0
+              Margins.Bottom = 8
+              Align = alClient
+              Alignment = taCenter
+              BorderStyle = bsNone
+              Font.Charset = DEFAULT_CHARSET
+              Font.Color = 6707288
+              Font.Height = -33
+              Font.Name = 'Segoe UI'
+              Font.Style = [fsBold]
+              ParentFont = False
+              TabOrder = 0
+              Text = 'R$ 0,00'
+              ExplicitTop = 3
+              ExplicitHeight = 34
+            end
+          end
+        end
+        object Panel7: TPanel
+          AlignWithMargins = True
+          Left = 0
+          Top = 68
+          Width = 293
+          Height = 54
+          Margins.Left = 0
+          Margins.Top = 2
+          Margins.Right = 0
+          Margins.Bottom = 2
+          Align = alClient
+          BevelOuter = bvNone
+          Font.Charset = DEFAULT_CHARSET
+          Font.Color = 6708056
+          Font.Height = -11
+          Font.Name = 'Segoe UI'
+          Font.Style = []
+          ParentBackground = False
+          ParentFont = False
+          TabOrder = 1
+          ExplicitTop = 8
+          ExplicitHeight = 66
+          object Shape4: TShape
+            Left = 0
+            Top = 0
+            Width = 293
+            Height = 54
+            Align = alClient
+            Brush.Color = 7119398
+            Pen.Style = psClear
+            Shape = stRoundRect
+            ExplicitTop = 1
+          end
+          object btnCancelarOp: TSpeedButton
+            Left = 0
+            Top = 0
+            Width = 293
+            Height = 54
+            Align = alClient
+            Caption = 'Abrir Caixa'
+            Flat = True
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = clWhite
+            Font.Height = -33
+            Font.Name = 'Segoe UI'
+            Font.Style = []
+            ParentFont = False
+            ExplicitWidth = 190
+            ExplicitHeight = 80
+          end
+        end
+      end
+    end
+  end
+end

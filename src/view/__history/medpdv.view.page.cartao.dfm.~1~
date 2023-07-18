@@ -1,0 +1,19 @@
+object FrameCartao: TFrameCartao
+  Left = 0
+  Top = 0
+  Width = 766
+  Height = 432
+  TabOrder = 0
+  object pnlContainerCartao: TPanel
+    Left = 0
+    Top = 0
+    Width = 766
+    Height = 432
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+    ExplicitLeft = -3
+    ExplicitWidth = 320
+    ExplicitHeight = 240
+  end
+end
